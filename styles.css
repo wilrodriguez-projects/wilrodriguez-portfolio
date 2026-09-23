@@ -5,7 +5,7 @@
   height: 280px;
   border-radius: 50%;
   object-fit: cover;
-  object-position: center;
+  object-position: center 65%;
   border: 1px solid #dfe5ee;
   display: block;
 }
