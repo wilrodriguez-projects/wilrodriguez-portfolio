@@ -21,17 +21,18 @@
 }
 .project-links-image {
   width: 100%;
-  max-width: 300px;
-  height: auto;
+  max-width: 260px;
+  height: 70px;
+  object-fit: cover;
   display: block;
-  margin: 24px auto 0;
+  margin: 16px auto 0;
 }
 .project-button {
   display: block;
   width: 100%;
-  max-width: 300px;
-  margin: 12px auto 0;
-  padding: 12px 18px;
+  max-width: 260px;
+  margin: 8px auto 0;
+  padding: 10px 18px;
   text-align: center;
   background: #075fc9;
   color: #ffffff;
